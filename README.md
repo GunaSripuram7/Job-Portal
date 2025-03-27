@@ -1,6 +1,6 @@
-# TWEAK - Job Portal
+# Job Portal
 
-Welcome to **TWEAK - Job Portal**, a revolutionary job discovery platform built during the GDG InnoHacks Hackathon by Team TWEAK. This project is a dynamic, skill-driven job portal that uses real-time filtering and ranking to display the most relevant job listings. The system is built using React.js, Tailwind CSS, Framer Motion, and Firebase for authentication and database (Firestore).
+Welcome to **Job Portal**, a revolutionary job discovery platform built during the GDG InnoHacks Hackathon by Team TWEAK. This project is a dynamic, skill-driven job portal that uses real-time filtering and ranking to display the most relevant job listings. The system is built using React.js, Tailwind CSS, Framer Motion, and Firebase for authentication and database (Firestore).
 
 ---
 
